@@ -1,0 +1,19 @@
+¿QUE ES GITHUB?
+GitHub es una plataforma basada en la web que proporciona alojamiento para repositorios de control de versiones.
+Permite a los desarrolladores colaborar en proyectos, realizar un seguimiento de los cambios y administrar el código 
+de manera centralizada y eficiente. GitHub es compatible con Git, un sistema de control de versiones distribuido,
+ y proporciona funciones adicionales, como seguimiento de problemas, solicitudes de incorporación de cambios y wikis.
+En GitHub, los usuarios pueden crear repositorios para almacenar su código y archivos relacionados. 
+Estos repositorios pueden ser públicos o privados, según la preferencia del usuario y la naturaleza del proyecto. 
+Los repositorios públicos son accesibles para cualquier persona, mientras que los repositorios privados restringen el acceso solo a 
+aquellos a quienes el propietario del repositorio les ha otorgado permiso.
+
+¿QUE ES DOCKER?
+Docker es una plataforma de código abierto que permite la creación, distribución y ejecución de aplicaciones en contenedores. 
+Un contenedor es una unidad de software que encapsula una aplicación y todas sus dependencias, incluyendo bibliotecas,
+ frameworks y archivos de configuración.
+
+¿QUE ES GOOGLE CLOUD?
+Google Cloud Platform es una plataforma de servicios en la nube que ofrece una amplia gama de servicios, como cómputo en la nube, 
+almacenamiento de datos, análisis, inteligencia artificial, aprendizaje automático, bases de datos, redes y más. 
+Estos servicios permiten a los usuarios desarrollar, implementar y escalar aplicaciones y servicios en la infraestructura de Google.
